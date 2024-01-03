@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RactJs, ViteJs, ReactNative**
 
-- 💬 Ask me about **HTML,CSS,JS,BootStrap,React,Android**
+- 💬 Ask me about **Frontend,Android,Github**
 
 - 📫 How to reach me **15chandel2000@gmail.com**
 
